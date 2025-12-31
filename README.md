@@ -1,10 +1,9 @@
-# Git Practice
+# Git Notes
 
-This repository is used to practice Git and GitHub fundamentals.
+This repository contains short notes from my daily GitHub practice.
 
-## What I am learning
-- Creating and managing repositories
-- Committing and pushing changes
-- Working with branches
-- Writing clean commit messages
+Topics:
+- git init, add, commit
+- repositories and branches
+- writing meaningful commit messages
 
